@@ -3,7 +3,7 @@
 This program will generate a password that bypasses a PHP script using raw md5 encryption for its password.
 
 
-####DO NOT THIS PROGRAM IN ANY MALICIOUS INTENT OR IN ANY REAL-LIFE SITUATIONS.
+#### DO NOT THIS PROGRAM IN ANY MALICIOUS INTENT OR IN ANY REAL-LIFE SITUATIONS.
 
 
 ## How it works
