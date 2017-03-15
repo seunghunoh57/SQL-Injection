@@ -28,11 +28,12 @@ This type of PHP script uses an MD5 hash to encrypt the password before inputtin
 
 Knowing all this means that all we have to do is create a random input into the MD5 hash such that it returns a raw binary input that includes ``` '=' ```.
 
-The Python script generates such a random input by putting together a randomly generated integer and finding its hash, repeating this process until its MD5 hash includes ```'='```
+The Python script generates a correct injection input by putting together a randomly generated integer and finding its hash, repeating this process until its MD5 hash includes ```'='```
 
 
 ## Note
 On average, the program should take anywhere from a few seconds to a couple minutes.
+
 For more information, feel free to contact me!
 
 
